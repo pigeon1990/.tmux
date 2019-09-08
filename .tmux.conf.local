@@ -294,3 +294,9 @@ tmux_conf_copy_to_os_clipboard=false
 
 # move status line to top
 #set -g status-position top
+
+
+tmux_conf_theme_status_left=''
+tmux_conf_theme_status_right=''
+tmux_conf_theme_window_status_format='    #I    '
+tmux_conf_theme_window_status_current_format='    #I    '
